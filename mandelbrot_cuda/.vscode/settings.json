@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "mandelbrotlib.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}
